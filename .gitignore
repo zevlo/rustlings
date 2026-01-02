@@ -1,0 +1,10 @@
+# Rust
+/target/
+**/*.rs.bk
+
+# Rustlings
+rustlings.log
+
+# OS
+.DS_Store
+
